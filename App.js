@@ -9,7 +9,7 @@ export default function App() {
       <Text style={styles.text}>110919002藍中崑</Text>
       </View>
       <View style={styles.container2}>
-      <Text style={styles.text}>Hellow RN</Text>
+      <Text style={styles.text}>Hello RN</Text>
       </View>
       <StatusBar style="auto" />
     </View>
