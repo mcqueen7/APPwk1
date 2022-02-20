@@ -37,5 +37,7 @@ const styles = StyleSheet.create({
     flexWrap: 'wrap',
     width: 130,
     textAlign: 'center',
+    fontWeight: 'bold',
   },
+
 });
